@@ -1,3 +1,3 @@
 # testchek
 this is test check
-Author - anas shaikh
+Author - anas mohd shaikh
